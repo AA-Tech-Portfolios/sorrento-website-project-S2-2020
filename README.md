@@ -44,7 +44,7 @@ This project was built to develop:
 
 ## 📌 Live Website
 
-🔗 Visit here: *Add your GitHub Pages link once final*
+🔗 Visit here: [Live Website](https://aa-tech-portfolios.github.io/sorrento-website-project-S2-2020/)
 
 ---
 
